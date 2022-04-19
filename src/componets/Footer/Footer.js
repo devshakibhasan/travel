@@ -15,8 +15,9 @@ const Footer = () => {
                         <p className='hide'>Suspendisse potenti. In faucibus massa. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eu convallis tortor.</p>
                     </Col>
 
-                    <Col lg={3} sm={12}>
+                    <Col lg={3} sm={12} >
                         <h3>BLOG POST</h3>
+                        <div className="blogss">
                         <Row className='hide' sm={6}>
                             <Col>
                                 <img src='https://preview.colorlib.com/theme/travelix/images/xfooter_blog_1.jpg.pagespeed.ic.n5JT1wzbm-.webp'></img>
@@ -53,6 +54,7 @@ const Footer = () => {
                                 <p className='date'>Apr 29, 2022</p>
                             </Col>
                         </Row>
+                        </div>
                     </Col>
                     <Col lg={3} sm={12}>
                         <h3>TAGS</h3>
