@@ -27,7 +27,7 @@
 
 
 .footer1 {
-    margin-top: 500px;
+    margin-top: 400px;
 }
 
 .about-wrapper{
@@ -211,3 +211,20 @@
 } 
 
 
+
+@media only screen and (max-width: 670px) {
+ 
+    .about-wrapper{
+        height: 130vh;
+    }
+    .about-right{
+      
+        height: 110vh;
+      
+    }
+    .about-left{
+     
+        height: 80vh;
+      
+    }
+}

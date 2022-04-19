@@ -11,7 +11,7 @@ const Footer = () => {
             <Container className='footer'>
                 <Row className='footer-title'>
                     <Col className='travel' lg={3} sm={12}>
-                        <h2 > Traveler World</h2>
+                        <h4 > Traveler World</h4>
                         <p className='hide'>Suspendisse potenti. In faucibus massa. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eu convallis tortor.</p>
                     </Col>
 
@@ -202,10 +202,10 @@ const Footer = () => {
                     <Row className='footer2'>
                         <Col>
                             <p>Copyright ©2022 All rights reserved </p>
-                            <p>This template is made with  by Traveler World</p>
+                            <p>This template is made with  by Rafee Al Fayed</p>
                         </Col>
                         <Col>
-                            <h2>Traveler World</h2>
+                            <h4>Traveler World</h4>
                         </Col>
                     </Row>
                 </Container>

@@ -241,7 +241,7 @@ const Home = () => {
         <Slider {...settings}>
 
           <div >
-            <Card className="card" style={{ width: '36rem', height: '26rem' }} >
+            <Card className="card"  >
               <Row>
                 <Col className="left">
                   <Card.Img variant="top" src="https://preview.colorlib.com/theme/travelix/images/xoffer_1.jpg.pagespeed.ic.LnLHOsFCJq.webp" />
@@ -284,7 +284,7 @@ const Home = () => {
 
 
           <div>
-            <Card className="card" style={{ width: '36rem', height: '20rem' }}>
+            <Card className="card"  >
               <Row>
                 <Col className="left">
                   <Card.Img variant="top" src="https://preview.colorlib.com/theme/travelix/images/xoffer_2.jpg.pagespeed.ic.HA9cJExNCg.webp" />
@@ -325,7 +325,7 @@ const Home = () => {
 
           <div>
 
-            <Card className="card" style={{ width: '36rem', height: '20rem' }}>
+            <Card className="card"  >
               <Row>
                 <Col className="left">
                   <Card.Img variant="top" src="https://preview.colorlib.com/theme/travelix/images/xoffer_3.jpg.pagespeed.ic.9JfYNcm8fb.webp" />
@@ -363,7 +363,7 @@ const Home = () => {
           </div>
           <div>
 
-            <Card className="card" style={{ width: '36rem', height: '20rem' }}>
+            <Card className="card"  >
               <Row>
                 <Col className="left">
                   <Card.Img variant="top" src="https://cdn.tourradar.com/s3/tour/232x170/93831_e15ebb55.jpg" />
@@ -402,7 +402,7 @@ const Home = () => {
 
 
           <div>
-            <Card className="card" style={{ width: '36rem', height: '20rem' }}>
+            <Card className="card"  >
               <Row>
                 <Col className="left">
                   <Card.Img variant="top" src="https://cdn.tourradar.com/s3/tour/232x170/93833_609bd117ac16a.jpg" />
@@ -440,7 +440,7 @@ const Home = () => {
           </div>
 
           <div>
-            <Card className="card" style={{ width: '36rem', height: '20rem' }}>
+            <Card className="card"  >
               <Row>
                 <Col className="left">
                   <Card.Img variant="top" src="https://cdn.tourradar.com/s3/tour/232x170/136783_fad6ce63.jpg" />
@@ -478,7 +478,7 @@ const Home = () => {
           </div>
 
           <div>
-            <Card className="card" style={{ width: '36rem', height: '20rem' }}>
+            <Card className="card"  >
               <Row>
                 <Col className="left">
                   <Card.Img variant="top" src="https://cdn.tourradar.com/s3/tour/232x170/91447_5e2041670dba9.jpg" />
@@ -515,7 +515,7 @@ const Home = () => {
           </div>
 
           <div>
-            <Card className="card" style={{ width: '36rem', height: '20rem' }}>
+            <Card className="card"  >
               <Row>
                 <Col className="left">
                   <Card.Img variant="top" src="https://cdn.tourradar.com/s3/tour/232x170/67027_5dfb47423685e.jpg" />
