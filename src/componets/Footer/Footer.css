@@ -87,13 +87,14 @@ footer {
     text-align: left;
   }
 
-  .grid-container{
+  .grid-container {
     display: grid;
-    grid-template-columns: auto  auto;
-  
+    grid-template-columns: auto auto;
+
   }
+
   .grid-container>div {
-    
+
     border: 1px solid #FA8C39;
     text-align: center;
     padding: 5px 0;
@@ -105,10 +106,18 @@ footer {
 
   .blogss {
     display: grid;
-    grid-template-columns: auto  auto;
+    grid-template-columns: auto auto;
 
     padding: 10px;
   }
 
-  
+  .contact-row {
+    display: grid;
+    grid-template-columns: auto auto;
+    text-align: left;
+  }
+  .contact-row>col p{
+    text-align: left;
+  }
+
 }

@@ -69,7 +69,8 @@ const Footer = () => {
                     </Col>
                     <Col lg={3} sm={12}>
                         <h3 className='contact'>CONTACT INFO</h3>
-                        <Row className='hide'>
+                    
+                        <Row className='hide contact-row'>
                             <Col lg="1" sm="1">
                                 <FontAwesomeIcon icon={faLocationDot} className="faicon" />
                             </Col>
@@ -78,7 +79,7 @@ const Footer = () => {
                             </Col>
                         </Row>
 
-                        <Row className='hide'>
+                        <Row className='hide contact-row'>
                             <Col lg="1" sm="1">
                                 <FontAwesomeIcon icon={faPhone} className="faicon" />
                             </Col>
@@ -87,7 +88,7 @@ const Footer = () => {
                             </Col>
                         </Row>
 
-                        <Row className='hide'>
+                        <Row className='hide contact-row'>
                             <Col lg="1">
                                 <FontAwesomeIcon icon={faMailBulk} className="faicon" />
                             </Col>
@@ -97,7 +98,7 @@ const Footer = () => {
                             </Col>
                         </Row>
 
-                        <Row  className='hide'>
+                        <Row  className='hide contact-row'>
                             <Col lg="1">
                                 <FontAwesomeIcon icon={faSitemap} className="faicon" />
                             </Col>
