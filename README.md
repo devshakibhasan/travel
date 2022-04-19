@@ -8,4 +8,4 @@
 ### `Many components are used here.`
 ### `API is used here by fetching data, declaring states and useEffect.`
 ### `Custom hook is also used.`
-## `Traveling guid website`
+## `Travel Guide website`
